@@ -1,0 +1,12 @@
+{
+    "command": {
+        "publish": {
+            "allowBranch": "master",
+            "conventionalCommits": true,
+            "message": "Lerna: publish"
+        }
+    },
+    "npmClient": "yarn",
+    "useWorkspaces": true,
+    "version": "0.0.0"
+}

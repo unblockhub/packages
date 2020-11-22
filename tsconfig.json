@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "forceConsistentCasingInFileNames": true,
+        "lib": [
+            "dom",
+            "esnext"
+        ],
+        "jsx": "react",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noEmitOnError": false,
+        "noImplicitReturns": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": false,
+        "removeComments": false,
+        "sourceMap": true,
+        "strict": true,
+        "target": "es6"
+    }
+}
